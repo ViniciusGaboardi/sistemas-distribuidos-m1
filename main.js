@@ -1,8 +1,8 @@
 import fetch from 'node-fetch';
 import readline from 'readline';
 
-const OMDB_API_KEY = "56d18134";
-const TMDB_API_KEY = "9f878a77f9008b506bbeec03b46a3e2e";
+const OMDB_API_KEY = "";
+const TMDB_API_KEY = "";
 
 const rl = readline.createInterface({
     input: process.stdin,
